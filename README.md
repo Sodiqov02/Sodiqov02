@@ -17,6 +17,9 @@
 ![React](https://img.shields.io/badge/React-blue?style=for-the-badge&logo=react)  
 ![GitHub](https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github)  
 
+💡 "Учись, твори, достигай. Код — это искусство, а ты его создатель."  
+
+
 📊 **Most Used Languages:**  
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sodiqov02&layout=compact&theme=radical)
 
