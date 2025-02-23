@@ -18,4 +18,4 @@
 ![GitHub](https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github)  
 
 📊 **GitHub Stats:**  
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Sodiqov02&show_icons=true&theme=dark)  
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Sodiqov02&show_icons=true&theme=radical)
