@@ -17,5 +17,9 @@
 ![React](https://img.shields.io/badge/React-blue?style=for-the-badge&logo=react)  
 ![GitHub](https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github)  
 
+📊 **Most Used Languages:**  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sodiqov02&layout=compact&theme=radical)
+
+
 📊 **GitHub Stats:**  
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Sodiqov02&show_icons=true&theme=radical)
